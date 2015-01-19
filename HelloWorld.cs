@@ -9,5 +9,6 @@ class HelloWorld
     {
         // Write to console
         Console.WriteLine("Hello World!"); 
+		Console.WriteLine("Be Great Today");
     }
 }
